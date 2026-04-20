@@ -1,5 +1,12 @@
 # Next.js Dashboard
 
+<p align="center">
+  ![Next.js](https://img.shields.io/badge/Next.js-15-black)
+  ![React](https://img.shields.io/badge/React-19-61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+</p>
+
 A simple full-stack dashboard application built with Next.js.
 
 This project follows the App Router approach and is based on the official Next.js dashboard learning project. It demonstrates how to build a modern web application with routing, layouts, authentication, database integration, search, pagination, and server-side data updates.
