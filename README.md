@@ -1,10 +1,10 @@
 # Next.js Dashboard
 
 <p align="center">
-  ![Next.js](https://img.shields.io/badge/Next.js-15-black)
-  ![React](https://img.shields.io/badge/React-19-61DAFB)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+  <img src="https://img.shields.io/badge/Next.js-15-black" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-blue" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue" alt="PostgreSQL" />
 </p>
 
 A simple full-stack dashboard application built with Next.js.
